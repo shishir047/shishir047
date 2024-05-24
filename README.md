@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello 👋, I'm Shishir</h1>
 <h3 align="center">A passionate Software developer from USA</h3>
 
