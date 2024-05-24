@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **getting full-time Job**
 
-- 👨‍💻 All of my projects are available at [https://www.shishirkrsingh.com](https://www.shishirkrsingh.com)
+- 👨‍💻 All of my projects are available [here](https://www.shishirkrsingh.com)
 
 - 💬 Ask me about **Java and Chess**
 
