@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SpringSpace](https://github.com/shishir047/SpringSpace)
 
-- 🌱 I’m currently learning **Flutter and Spring Boot**
+- 🌱 I’m currently learning **AWS**
 
 - 🤝 I’m looking for help with **getting full-time Job**
 
