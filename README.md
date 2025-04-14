@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shishirsinghsde@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/shishir047/shishir047.github.io/blob/main/files/resumeShishir.pdf](https://github.com/shishir047/shishir047.github.io/blob/main/files/resumeShishir.pdf)
+<!-- - 📄 Know about my experiences [https://github.com/shishir047/shishir047.github.io/blob/main/files/resumeShishir.pdf](https://github.com/shishir047/shishir047.github.io/blob/main/files/resumeShishir.pdf) -->
 
 - ⚡ Fun fact **I really like chess. Wanna have a match?**
 
