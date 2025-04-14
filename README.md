@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://www.shishirkrsingh.com)
 
-- 💬 Ask me about **Java and Chess**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **shishirsinghsde@gmail.com**
 
