@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishir047" alt="shishir047" /></a> </p>
 
-- 🔭 I’m currently working on [SpringSpace](https://github.com/shishir047/SpringSpace)
+<!-- - 🔭 I’m currently working on getting a job 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Kubernates** -->
 
 - 🤝 I’m looking for help with **getting full-time Job**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java and Chess**
 
-- 📫 How to reach me **shishir47singh@gmail.com**
+- 📫 How to reach me **shishirsinghsde@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/shishir047/shishir047.github.io/blob/main/files/resumeShishir.pdf](https://github.com/shishir047/shishir047.github.io/blob/main/files/resumeShishir.pdf)
 
